@@ -1,3 +1,3 @@
 # Deep-Learning-Odyssey
-![Output examples](The_last_knight_megatron_transformation.mp4)
-The_last_knight_megatron_transformation.mp4
+![Output examples](https://github.com/Cohegen/Deep-Learning-Odyssey/blob/main/The_last_knight_megatron_transformation.mp4)
+
