@@ -3,4 +3,4 @@
 
   ## LINEAR ALGEBRA
 
-  ![Output examples](assets/linear_algebra.gif)
+  ![Output examples](assets/calculus.gif)
