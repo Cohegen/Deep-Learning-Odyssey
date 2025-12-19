@@ -3,4 +3,4 @@
 
   ## LINEAR ALGEBRA
 
-  ![Output examples](assets/calculus.gif)
+  ![Output examples](https://github.com/Cohegen/Deep-Learning-Odyssey/blob/main/assets/linear_algebra.gif)
